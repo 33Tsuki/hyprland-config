@@ -1,7 +1,7 @@
 ```markdown
 # 🌊 Hyprland Dotfiles
 
-![Desktop Screenshot](hyprland/Desktop.png)
+![Desktop Screenshot] (hyprland/Desktop.png)
 
 Clean and Modular Hyprland Configurations. All configurations are managed via **GNU Stow**, which allows for instant installation with no hassle of copying files all around.
 
